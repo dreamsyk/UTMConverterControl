@@ -1,0 +1,13 @@
+E:\Study\C\UTMConverterControl\UTMConverterControl\obj\Debug\ResolveAssemblyReference.cache
+E:\Study\C\UTMConverterControl\UTMConverterControl\bin\Debug\UTMConverterControl.dll
+E:\Study\C\UTMConverterControl\UTMConverterControl\bin\Debug\UTMConverterControl.pdb
+E:\Study\C\UTMConverterControl\UTMConverterControl\obj\Debug\UTMConverterControl.dll
+E:\Study\C\UTMConverterControl\UTMConverterControl\obj\Debug\UTMConverterControl.pdb
+C:\Users\SYK\Desktop\MayeSoft\UTMConverterControl\UTMConverterControl\bin\Debug\UTMConverterControl.dll
+C:\Users\SYK\Desktop\MayeSoft\UTMConverterControl\UTMConverterControl\bin\Debug\UTMConverterControl.pdb
+C:\Users\SYK\Desktop\MayeSoft\UTMConverterControl\UTMConverterControl\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SYK\Desktop\MayeSoft\UTMConverterControl\UTMConverterControl\obj\Debug\Maye.ProcessBarX.resources
+C:\Users\SYK\Desktop\MayeSoft\UTMConverterControl\UTMConverterControl\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\SYK\Desktop\MayeSoft\UTMConverterControl\UTMConverterControl\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\SYK\Desktop\MayeSoft\UTMConverterControl\UTMConverterControl\obj\Debug\UTMConverterControl.dll
+C:\Users\SYK\Desktop\MayeSoft\UTMConverterControl\UTMConverterControl\obj\Debug\UTMConverterControl.pdb
